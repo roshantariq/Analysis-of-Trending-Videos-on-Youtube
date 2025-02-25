@@ -1,7 +1,7 @@
 # YouTube Trending Analysis Dashboard
 
 ## File Download
-The Power BI file is available for download [here](https://drive.google.com/drive/folders/1L7SJ4Tu8c480OQi6djnCua8g5QKOYbpm?usp=drive_link).
+The Power BI file is available for download [here](https://drive.google.com/file/d/1gEhVVRvMtO4R5MEHeNU-9K9KptdtpDSN/view?usp=drive_link).
 
 ## Overview
 This folder contains a Power BI dashboard and insights derived from YouTube trending data. The analysis explores patterns in categories, engagement, upload timing, and trending behavior.
